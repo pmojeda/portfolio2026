@@ -1,0 +1,144 @@
+{
+  "brand": {
+    "short": "MO"
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "hero": {
+    "kicker": "Hola, soy",
+    "role": "Full Stack Developer + AI, Database Engineer",
+    "lead": "Ingeniero de Software especializado en el desarrollo de aplicaciones .NET.  Mi objetivo principal es crear soluciones robustas y escalables que cumplan con los requisitos del negocio y centrado en el usuario.",
+    "ctaProjects": "Ver proyectos",
+    "ctaCv": "Descargar CV",
+    "scrollHint": "Ir a la sección siguiente",
+    "scrollDown": {
+      "label": ""
+    },
+    "panel": {
+      "kicker": "Enfoque",
+      "title": "Desarrollo de Productos Digitales",
+      "badge": ".NET · SQL · React · Cloud",
+      "b1": "Aplicaciones web",
+      "b2": "Desarrollo e integración de Servicios web (REST/SOAP)",
+      "b3": "Modelado y optimización de bases de datos SQL",
+      "note": ""
+    }
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "",
+    "summaryTitle": "Resumen",
+    "summaryP1": "Ingeniero de software con más de 15 años de experiencia en el desarrollo de aplicaciones empresariales y servicios backend utilizando principalmente tecnologías Microsoft.  Especializado en .NET,  SQL Server, APIs REST, Web Services SOAP e integración de sistemas en proyectos de gran escala en sectores como energía, seguros, servicios de contact center y gobierno.",
+    "summaryP2": "Me gusta trabajar cerca del negocio y siempre centrado en el usuario: traducir requerimientos en entregables incrementales, mejorar performance cuando aparece deuda técnica y aplicar buenas prácticas de desarrollo.",
+    "experienceTitle": "Experiencia",
+    "stackTitle": "Stack tecnológico",
+    "servicesTitle": "Qué ofrezco",
+    "servicesSubtitle": "",
+    "experience": {
+      "anses": {
+        "period": "2019 — Presente",
+        "role": "Software Developer",
+        "company": "Anses — Buenos Aires, Argentina",
+        "body": "Desarrollo de aplicaciones web para gestión de turnos, evaluaciones médicas, seguimiento de expedientes, integraciones con servicios de organismos externos."
+      },
+      "trueNorth": {
+        "period": "2018 — 2019",
+        "role": "Software Developer",
+        "company": "True North — Buenos Aires, Argentina",
+        "body": "Desarrollo de APIs REST para validación financiera de ciudadanos de USA.  Mantenimiento de aplicaciones web y servicios en Azure."
+      },
+      "globant": {
+        "period": "2014 — 2018",
+        "role": "Software Developer",
+        "company": "Globant — Buenos Aires, Argentina",
+        "body": "Desarrollo de API Rest para la aplicación móvil de YPF.  Mantenimiento de sitio web y microservicios para cotización de seguros para AON. Mantenimiento de aplicaciones para gestión de contact centers para el cliente TeleTech."
+      },
+      "teletech": {
+        "period": "2012 — 2014",
+        "role": "Software Developer",
+        "company": "Teletech Argentina — Buenos Aires, Argentina",
+        "body": "Desarrollo de aplicaciones para gestión de contact centers.  Mantenimiento de módulos para grabación de audio y video e integración con PBXs."
+      }
+    },
+    "services": {
+      "web": {
+        "title": "Desarrollo web",
+        "body": "Aplicaciones web completas: diseño de módulos, APIs, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, entre otras."
+      },
+      "services": {
+        "title": "Servicios web",
+        "body": "Desarrollo de servicios API REST/SOAP para el backend de aplicaciones mobile o sitios web."
+      },
+      "data": {
+        "title": "Datos & performance",
+        "body": "Modelado de Bases de Datos SQL, optimización de consultas y mejoras de performance."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiencia Profesional",
+    "subtitle": ""
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Selección de trabajos, algunos proyectos no tienen demo ni repositorio público por confidencialidad.",
+    "stack": "Tecnologías",
+    "demo": "Demo",
+    "repo": "GitHub",
+    "missingDemo": "Sin demo pública",
+    "missingRepo": "Sin repo público",
+    "items": {
+      "publicSectorWeb": {
+        "title": "Turnos online",
+        "description": "Aplicación web de turnos para realizar trámites y gestión administrativa."
+      },
+      "fitShop": {
+        "title": "Tienda online",
+        "description": "Aplicación web para compra de artículos de entrenamiento."
+      },
+      "enterpriseWeb": {
+        "title": "Sitio de empresa tecnológica",
+        "description": "Sitio web de una empresa de tecnología que ofrece servicios SaaS a PYMEs."
+      },
+      "reactSurveys": {
+        "title": "Encuestas online",
+        "description": "Aplicación web de encuestas a realizar a alumnos de institutos educativos."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Si querés coordinar una charla o contarme una oportunidad, escribime.",
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "sending": "Enviando…",
+    "success": "Gracias. Tu mensaje fue enviado.",
+    "error": "No pudimos enviar el mensaje. Probá de nuevo o escribime por email.",
+    "devNote": "En desarrollo local, Netlify Forms no procesa el envío: probá en el deploy o usá el email del pie.",
+    "privacy": "Al enviar, aceptás que me contacte por email respecto a tu consulta.",
+    "scrollUp": {
+      "label": "",
+      "ariaLabel": "Volver al inicio de la página"
+    }
+  },
+  "footer": {
+    "rights": "© {year} Martín Ojeda. Todos los derechos reservados.",
+    "location": "Buenos Aires, Argentina",
+    "socialEmail": "Email",
+    "socialLinkedIn": "LinkedIn",
+    "socialGitHub": "GitHub"
+  },
+  "language": {
+    "es": "ES",
+    "en": "EN",
+    "label": "Idioma"
+  }
+}

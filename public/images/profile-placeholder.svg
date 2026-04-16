@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Profile placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c6cff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.20"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="900" rx="64" fill="#0f1016"/>
+  <rect x="0" y="0" width="900" height="900" rx="64" fill="url(#bg)" opacity="0.55"/>
+  <rect x="0" y="0" width="900" height="900" rx="64" fill="url(#glow)"/>
+
+  <!-- Silhouette -->
+  <circle cx="450" cy="365" r="140" fill="#ffffff" opacity="0.16"/>
+  <path
+    d="M190 795c32-195 152-295 260-295s228 100 260 295H190Z"
+    fill="#ffffff"
+    opacity="0.16"
+  />
+
+  <!-- Subtle inner frame -->
+  <rect x="70" y="70" width="760" height="760" rx="56" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="4"/>
+  <path d="M145 735h610" stroke="#ffffff" stroke-opacity="0.10" stroke-width="3"/>
+  <path d="M245 520h410" stroke="#ffffff" stroke-opacity="0.10" stroke-width="3"/>
+</svg>
+

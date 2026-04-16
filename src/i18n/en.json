@@ -1,0 +1,161 @@
+{
+  "brand": {
+    "short": "MO"
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "kicker": "Hi, I'm",
+    "role": "Software Engineer",
+    "lead": "I build web applications and services with a focus on quality, maintainability, and steady delivery. I blend deep .NET/SQL experience with React when the product calls for it.",
+    "ctaProjects": "View projects",
+    "ctaCv": "Download CV",
+    "scrollHint": "Go to the next section",
+    "scrollDown": {
+      "label": "Next"
+    },
+    "panel": {
+      "kicker": "Focus",
+      "title": "Delivery + maintainability",
+      "badge": ".NET · SQL · React",
+      "b1": "Web apps with clear module boundaries",
+      "b2": "Services integration (REST/SOAP)",
+      "b3": "SQL modeling & pragmatic performance",
+      "note": "Built as a static site: fast, cheap to host, easy to iterate."
+    }
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Professional summary, experience, and stack.",
+    "summaryTitle": "Summary",
+    "summaryP1": "I hold a bachelor’s degree in Information Technology and have spent 20+ years building software in enterprise settings. My day-to-day work spans web apps, service integration (REST/SOAP), and databases—with an emphasis on clear design and reliable production operation.",
+    "summaryP2": "I like working close to the business: turning requirements into incremental deliverables, improving performance when technical debt shows up, and leaving systems easy to evolve.",
+    "experienceTitle": "Experience",
+    "stackTitle": "Tech stack",
+    "servicesTitle": "What I do",
+    "servicesSubtitle": "Typical areas where I contribute the most value.",
+    "experience": {
+      "anses": {
+        "period": "2019 — Present",
+        "role": "Software Developer",
+        "company": "Anses — Buenos Aires, Argentina",
+        "body": "Web applications for appointments, medical certificates, and administrative workflows, integrating services and SQL Server."
+      },
+      "trueNorth": {
+        "period": "2018 — 2019",
+        "role": "Software Developer",
+        "company": "True North — Buenos Aires, Argentina",
+        "body": "US client (IDValidation): evolving web apps and Azure-hosted APIs for financial data, focusing on consistency and traceability."
+      },
+      "globant": {
+        "period": "2014 — 2018",
+        "role": "Software Developer",
+        "company": "Globant — Buenos Aires, Argentina",
+        "body": "YPF: Azure services for a Serviclub mobile app. AON: insurance quoting/sales applications integrating reporting and multiple business layers."
+      },
+      "teletech": {
+        "period": "2012 — 2014",
+        "role": "Software Developer",
+        "company": "Teletech Argentina — Buenos Aires, Argentina",
+        "body": "US client: call-center management systems and audio/video recording solutions with demanding operational requirements."
+      },
+      "asignet": {
+        "period": "2000 — 2012",
+        "role": "Software Developer",
+        "company": "Asignet — Buenos Aires, Argentina",
+        "body": "Clients such as YPF, Unilever, Santander, and HSBC: technical leadership on telephony rebilling, PBX/CRM integrations, and analytical reporting."
+      }
+    },
+    "services": {
+      "web": {
+        "title": "Web development",
+        "body": "End-to-end delivery: modules, APIs, UI, and deployment."
+      },
+      "services": {
+        "title": "Web services",
+        "body": "REST/SOAP APIs integrating mobile, web, and legacy systems."
+      },
+      "data": {
+        "title": "Data & performance",
+        "body": "SQL modeling, query tuning, and pragmatic performance work."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Work history and key responsibilities."
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Highlighted work and public references. Some enterprise work has no public demo due to confidentiality.",
+    "stack": "Tech",
+    "demo": "Demo",
+    "repo": "GitHub",
+    "missingDemo": "No public demo",
+    "missingRepo": "No public repository",
+    "items": {
+      "publicSectorWeb": {
+        "title": "Public-sector web apps (.NET)",
+        "description": "Web applications for citizen-facing workflows and internal administration, integrated with services and SQL Server."
+      },
+      "fitShop": {
+        "title": "eCommerce (React)",
+        "description": "A training-gear shop: modern UI, clear navigation, and conversion-focused structure."
+      },
+      "portfolioCodo": {
+        "title": "Portfolio (HTML + CSS)",
+        "description": "A static portfolio from the Codo a Codo program: layout, components, and solid frontend fundamentals."
+      },
+      "enterpriseWeb": {
+        "title": "Enterprise websites (.NET)",
+        "description": "Enterprise application evolution with multiple integrations, reporting, and operation in regulated contexts."
+      },
+      "multiplePublisher": {
+        "title": "Mass publisher (.NET)",
+        "description": "Tooling for bulk publishing and automated content/data flows using .NET and SQL Server."
+      },
+      "reactSurveys": {
+        "title": "Surveys (React)",
+        "description": "Dynamic survey flows in React consuming REST services, focusing on UX and validation."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "If you want to sync on a role or a project, send a message.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success": "Thanks — your message was sent.",
+    "error": "We couldn’t send the message. Please try again or email me directly.",
+    "devNote": "Netlify Forms won’t process submissions in local dev—test on the deployed site or use the footer email.",
+    "privacy": "By submitting, you agree I may reply by email about your inquiry.",
+    "scrollUp": {
+      "label": "Top",
+      "ariaLabel": "Back to the top of the page"
+    }
+  },
+  "footer": {
+    "rights": "© {year} Martín Ojeda. All rights reserved.",
+    "location": "Buenos Aires, Argentina",
+    "socialEmail": "Email",
+    "socialLinkedIn": "LinkedIn",
+    "socialGitHub": "GitHub"
+  },
+  "language": {
+    "es": "ES",
+    "en": "EN",
+    "label": "Language"
+  },
+  "common": {
+    "loading": "Loading…"
+  }
+}
