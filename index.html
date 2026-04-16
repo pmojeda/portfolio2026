@@ -19,7 +19,8 @@
       It must mirror the React form fields (`name`, `email`, `message`) and the form `name`.
       See: https://docs.netlify.com/forms/setup/
     -->
-    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+    <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="contact" />
       <input type="text" name="name" />
       <input type="email" name="email" />
       <textarea name="message"></textarea>

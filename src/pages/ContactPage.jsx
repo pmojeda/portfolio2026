@@ -47,6 +47,7 @@ export function ContactPage() {
         <SectionHeading title={t('contact.title')} subtitle={t('contact.subtitle')} />
 
         <div className="mx-auto mt-12 grid max-w-6xl gap-10 lg:grid-cols-12 lg:items-start">
+          {/* 
           <div className="lg:col-span-5">
             <p className="text-sm leading-relaxed text-slate-400">
               <span className="font-semibold text-slate-200">Email: </span>
@@ -60,8 +61,8 @@ export function ContactPage() {
               </p>
             ) : null}
           </div>
-
-          <div className="lg:col-span-7">
+          */}
+          <div className="lg:col-span-12">
             <form
               name="contact"
               method="POST"
