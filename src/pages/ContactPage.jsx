@@ -46,7 +46,7 @@ export function ContactPage() {
       <div className="mx-auto max-w-6xl px-4 py-16 md:px-6 md:py-2">
         <SectionHeading title={t('contact.title')} subtitle={t('contact.subtitle')} />
 
-        <div className="mx-auto mt-12 grid max-w-6xl gap-10 lg:grid-cols-12 lg:items-start">
+        <div className="mx-auto mt-6 grid max-w-6xl gap-10 lg:grid-cols-12 lg:items-start">
           {/* 
           <div className="lg:col-span-5">
             <p className="text-sm leading-relaxed text-slate-400">
@@ -68,7 +68,7 @@ export function ContactPage() {
               method="POST"
               data-netlify="true"
               data-netlify-honeypot="bot-field"
-              className="rounded-3xl bg-night-850 p-6 shadow-lift shadow-panel md:p-8"
+              className="rounded-3xl bg-night-850 p-4 shadow-lift shadow-panel md:p-4"
               onSubmit={onSubmit}
             >
               <input type="hidden" name="form-name" value="contact" />
@@ -79,7 +79,7 @@ export function ContactPage() {
                 </label>
               </p>
 
-              <div className="grid gap-4">
+              <div className="grid gap-3">
                 <label className="grid gap-2">
                   <span className="text-xs font-semibold uppercase tracking-wide text-slate-400">{t('contact.name')}</span>
                   <input
@@ -104,14 +104,14 @@ export function ContactPage() {
                 <label className="grid gap-2">
                   <span className="text-xs font-semibold uppercase tracking-wide text-slate-400">{t('contact.message')}</span>
                   <textarea
-                    className="min-h-[160px] w-full resize-y rounded-2xl border border-white/10 bg-night-900 px-4 py-3 text-sm text-white outline-none ring-accent/0 transition focus:ring-4"
+                    className="min-h-[130px] w-full resize-y rounded-2xl border border-white/10 bg-night-900 px-4 py-3 text-sm text-white outline-none ring-accent/0 transition focus:ring-4"
                     name="message"
                     required
                   />
                 </label>
               </div>
 
-              <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+              <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
                 <button
                   type="submit"
                   className="inline-flex items-center justify-center rounded-full bg-white px-5 py-3 text-sm font-semibold text-night-900 transition enabled:hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-60 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
