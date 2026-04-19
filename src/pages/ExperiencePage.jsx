@@ -48,7 +48,7 @@ export function ExperiencePage() {
                     <p className="mt-1 text-sm text-slate-300">
                       {t(`${base}.company`)}
                     </p>
-                    <p className="mt-3 text-sm leading-relaxed text-slate-400">
+                    <p className="mt-3 text-sm leading-relaxed text-slate-400" style={{whiteSpace: 'pre-line' }}>
                       {t(`${base}.body`)}
                     </p>
                   </motion.li>

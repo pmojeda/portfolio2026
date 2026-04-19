@@ -20,7 +20,7 @@ export function HeroPage() {
         <div className="grid gap-10 lg:grid-cols-12 lg:items-center">
           <div className="lg:col-span-7">
             <motion.p
-              className="text-xs font-semibold uppercase tracking-[0.22em] text-accent"
+              className="text-xs font-semibold tracking-[0.22em] text-accent"
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}

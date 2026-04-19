@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { useTranslation } from '../hooks/useTranslation.js';
+import { space } from 'postcss/lib/list';
 
 export function ProjectCard({ project, index }) {
   const { t } = useTranslation();

@@ -12,88 +12,82 @@
   },
   "hero": {
     "kicker": "Hi, I'm",
-    "role": "Software Engineer",
-    "lead": "I build web applications and services with a focus on quality, maintainability, and steady delivery. I blend deep .NET/SQL experience with React when the product calls for it.",
+    "role": "Full Stack Developer + AI | Database Engineer",
+    "lead": "I design and build scalable, robust web applications and services, with a focus on software quality, business needs, and user experience.",
     "ctaProjects": "View projects",
     "ctaCv": "Download CV",
     "scrollHint": "Go to the next section",
     "scrollDown": {
-      "label": "Next"
+      "label": ""
     },
     "panel": {
       "kicker": "Focus",
-      "title": "Delivery + maintainability",
+      "title": "Digital Products Development",
       "badge": ".NET · SQL · React",
-      "b1": "Web apps with clear module boundaries",
-      "b2": "Services integration (REST/SOAP)",
-      "b3": "SQL modeling & pragmatic performance",
-      "note": "Built as a static site: fast, cheap to host, easy to iterate."
+      "b1": "Web applications",
+      "b2": "Services development and integration (REST/SOAP)",
+      "b3": "SQL Database modeling & optimization",
+      "note": ""
     }
   },
   "about": {
     "title": "About",
-    "subtitle": "Professional summary, experience, and stack.",
+    "subtitle": "",
     "summaryTitle": "Summary",
-    "summaryP1": "I hold a bachelor’s degree in Information Technology and have spent 20+ years building software in enterprise settings. My day-to-day work spans web apps, service integration (REST/SOAP), and databases—with an emphasis on clear design and reliable production operation.",
-    "summaryP2": "I like working close to the business: turning requirements into incremental deliverables, improving performance when technical debt shows up, and leaving systems easy to evolve.",
+    "summaryP1": "Software engineer with over 15 years of experience developing enterprise applications and backend services, primarily using Microsoft technologies. Specialized in .NET, SQL Server, REST APIs, and SOAP Web Services, with a strong track record in large-scale projects across industries such as energy, insurance, contact center services, and government.",
+    "summaryP2": "I enjoy working close to the business and focusing on the user: transforming requirements into incremental deliverables, improving performance, and applying development best practices.",
     "experienceTitle": "Experience",
     "stackTitle": "Tech stack",
     "servicesTitle": "What I do",
-    "servicesSubtitle": "Typical areas where I contribute the most value.",
+    "servicesSubtitle": "",
     "experience": {
       "anses": {
-        "period": "2019 — Present",
+        "period": "2019 — Presente",
         "role": "Software Developer",
         "company": "Anses — Buenos Aires, Argentina",
-        "body": "Web applications for appointments, medical certificates, and administrative workflows, integrating services and SQL Server."
+        "body": "Development of web applications for appointment management, medical evaluations, case tracking, and integrations with external government services."
       },
       "trueNorth": {
         "period": "2018 — 2019",
         "role": "Software Developer",
         "company": "True North — Buenos Aires, Argentina",
-        "body": "US client (IDValidation): evolving web apps and Azure-hosted APIs for financial data, focusing on consistency and traceability."
+        "body": "Development of REST APIs for financial validation of U.S. citizens.\nMaintenance of web applications and services in Azure."
       },
       "globant": {
         "period": "2014 — 2018",
         "role": "Software Developer",
         "company": "Globant — Buenos Aires, Argentina",
-        "body": "YPF: Azure services for a Serviclub mobile app. AON: insurance quoting/sales applications integrating reporting and multiple business layers."
+        "body": "Development of REST APIs for the YPF mobile application.\nMaintenance of website and microservices for insurance quoting for AON.\nMaintenance of applications for contact center management for the TeleTech client."
       },
       "teletech": {
         "period": "2012 — 2014",
         "role": "Software Developer",
         "company": "Teletech Argentina — Buenos Aires, Argentina",
-        "body": "US client: call-center management systems and audio/video recording solutions with demanding operational requirements."
-      },
-      "asignet": {
-        "period": "2000 — 2012",
-        "role": "Software Developer",
-        "company": "Asignet — Buenos Aires, Argentina",
-        "body": "Clients such as YPF, Unilever, Santander, and HSBC: technical leadership on telephony rebilling, PBX/CRM integrations, and analytical reporting."
-      }
+        "body": "Development of applications for contact center management.\nMaintenance of modules for audio and video recording and integration with PBXs."
+      }  
     },
     "services": {
       "web": {
         "title": "Web development",
-        "body": "End-to-end delivery: modules, APIs, UI, and deployment."
+        "body": "Full web applications: module design, APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, among others."
       },
       "services": {
         "title": "Web services",
-        "body": "REST/SOAP APIs integrating mobile, web, and legacy systems."
+        "body": "Development of REST/SOAP API services for the backend of mobile applications and websites."
       },
       "data": {
         "title": "Data & performance",
-        "body": "SQL modeling, query tuning, and pragmatic performance work."
+        "body": "SQL database modeling, query optimization, and performance improvements."
       }
     }
   },
   "experience": {
     "title": "Experience",
-    "subtitle": "Work history and key responsibilities."
+    "subtitle": ""
   },
   "projects": {
     "title": "Projects",
-    "subtitle": "Highlighted work and public references. Some enterprise work has no public demo due to confidentiality.",
+    "subtitle": "Some projects do not have a demo or public repository due to confidentiality.",
     "stack": "Tech",
     "demo": "Demo",
     "repo": "GitHub",
@@ -101,34 +95,26 @@
     "missingRepo": "No public repository",
     "items": {
       "publicSectorWeb": {
-        "title": "Public-sector web apps (.NET)",
-        "description": "Web applications for citizen-facing workflows and internal administration, integrated with services and SQL Server."
+        "title": "Appointments online",
+        "description": "Web application for booking appointments and administrative management."
       },
       "fitShop": {
-        "title": "eCommerce (React)",
-        "description": "A training-gear shop: modern UI, clear navigation, and conversion-focused structure."
-      },
-      "portfolioCodo": {
-        "title": "Portfolio (HTML + CSS)",
-        "description": "A static portfolio from the Codo a Codo program: layout, components, and solid frontend fundamentals."
+        "title": "eCommerce",
+        "description": "Web application for purchasing training-related products."
       },
       "enterpriseWeb": {
-        "title": "Enterprise websites (.NET)",
-        "description": "Enterprise application evolution with multiple integrations, reporting, and operation in regulated contexts."
-      },
-      "multiplePublisher": {
-        "title": "Mass publisher (.NET)",
-        "description": "Tooling for bulk publishing and automated content/data flows using .NET and SQL Server."
+        "title": "Technology company website",
+        "description": "Website for a technology company offering SaaS services to companies."
       },
       "reactSurveys": {
-        "title": "Surveys (React)",
-        "description": "Dynamic survey flows in React consuming REST services, focusing on UX and validation."
+        "title": " Surveys online",
+        "description": "Web application for conducting surveys for students in educational institutions."
       }
     }
   },
   "contact": {
     "title": "Contact",
-    "subtitle": "If you want to sync on a role or a project, send a message.",
+    "subtitle": "If you'd like to schedule a call or have any questions, feel free to reach out.",
     "name": "Name",
     "email": "Email",
     "message": "Message",
@@ -139,7 +125,7 @@
     "devNote": "Netlify Forms won’t process submissions in local dev—test on the deployed site or use the footer email.",
     "privacy": "By submitting, you agree I may reply by email about your inquiry.",
     "scrollUp": {
-      "label": "Top",
+      "label": "",
       "ariaLabel": "Back to the top of the page"
     }
   },
