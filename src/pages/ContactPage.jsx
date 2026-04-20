@@ -62,7 +62,7 @@ export function ContactPage() {
             ) : null}
           </div>
           */}
-          <div className="lg:col-span-12">
+          <div className="lg:col-span-8 lg:col-start-3">
             <form
               name="contact"
               method="POST"
@@ -104,14 +104,14 @@ export function ContactPage() {
                 <label className="grid gap-2">
                   <span className="text-xs font-semibold uppercase tracking-wide text-slate-400">{t('contact.message')}</span>
                   <textarea
-                    className="min-h-[130px] w-full resize-y rounded-2xl border border-white/10 bg-night-900 px-4 py-3 text-sm text-white outline-none ring-accent/0 transition focus:ring-4"
+                    className="min-h-[100px] w-full resize-y rounded-2xl border border-white/10 bg-night-900 px-4 py-3 text-sm text-white outline-none ring-accent/0 transition focus:ring-4"
                     name="message"
                     required
                   />
                 </label>
               </div>
 
-              <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+              <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
                 <button
                   type="submit"
                   className="inline-flex items-center justify-center rounded-full bg-white px-5 py-3 text-sm font-semibold text-night-900 transition enabled:hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-60 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
