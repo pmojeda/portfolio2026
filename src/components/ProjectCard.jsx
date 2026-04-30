@@ -22,13 +22,14 @@ export function ProjectCard({ project, index }) {
 
       <div className="grid gap-0 md:grid-cols-12">
         <div className="relative md:col-span-5">
-          <div className="aspect-[16/10] w-full bg-night-800">
+          <div className="aspect-[17/10] w-full bg-night-800">
             <img
               src={project.imageSrc}
               alt=""
               loading="lazy"
               decoding="async"
-              className="h-full w-full object-cover opacity-90 transition group-hover:opacity-100"
+              /*className="w-full h-full object-cover group-hover:scale-105"*/
+              className="h-full w-full object-cover opacity-75 transition group-hover:opacity-100"
             />
           </div>
         </div>

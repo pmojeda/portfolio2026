@@ -5,10 +5,19 @@ export const projects = [
     id: 'publicSectorWeb',
     i18nTitleKey: 'projects.items.publicSectorWeb.title',
     i18nDescKey: 'projects.items.publicSectorWeb.description',
-    imageSrc: '/images/projects/turnos.jpg',
-    demoUrl: null,
+    imageSrc: '/images/projects/Turnos Anses.jpg',
+    demoUrl: 'https://servicioswww.anses.gob.ar/TurnosInternet/Burbujas/Prestaciones',
     repoUrl: null,
-    stack: ['.NET Framework', 'ASP.NET MVC', 'WCF', 'SQL Server', 'Javascript'],
+    stack: ['.NET Framework', 'ASP.NET MVC', 'Bootstrap', 'JavaScript', 'SOAP', 'SQL Server'],
+  },
+{
+    id: 'miPortfolio',
+    i18nTitleKey: 'projects.items.miPortfolio.title',
+    i18nDescKey: 'projects.items.miPortfolio.description',
+    imageSrc: '/images/projects/portfolio2026.jpg',
+    demoUrl: null,
+    repoUrl: 'https://github.com/pmojeda/Portfolio2026',
+    stack: ['React', 'JavaScript', 'Tailwind CSS', 'Netlify'],
   },
   {
     id: 'fitShop',
@@ -36,5 +45,5 @@ export const projects = [
     demoUrl: null,
     repoUrl: null,
     stack: ['.NET 8', 'Web API', 'React', 'SQL Server'],
-  },
+  }
 ];

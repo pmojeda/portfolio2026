@@ -87,7 +87,7 @@
   },
   "projects": {
     "title": "Proyectos",
-    "subtitle": "Algunos proyectos no tienen demo ni repositorio público por confidencialidad.",
+    "subtitle": "Algunos proyectos no tienen demo o repositorio público por confidencialidad.",
     "stack": "Tecnologías",
     "demo": "Demo",
     "repo": "GitHub",
@@ -96,7 +96,7 @@
     "items": {
       "publicSectorWeb": {
         "title": "Turnos online",
-        "description": "Aplicación web de turnos para realizar trámites y gestión administrativa."
+        "description": "Aplicación web de turnos para realizar trámites y gestión administrativa en una dependencia de ANSES."
       },
       "fitShop": {
         "title": "Tienda online",
@@ -109,6 +109,10 @@
       "reactSurveys": {
         "title": "Encuestas online",
         "description": "Aplicación web de encuestas a realizar a alumnos de institutos educativos."
+      },
+      "miPortfolio": {
+        "title": "Mi Portfolio",
+        "description": "Aplicación web de mi portfolio personal."
       }
     }
   },
