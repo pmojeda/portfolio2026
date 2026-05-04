@@ -5,7 +5,7 @@ export const projects = [
     id: 'publicSectorWeb',
     i18nTitleKey: 'projects.items.publicSectorWeb.title',
     i18nDescKey: 'projects.items.publicSectorWeb.description',
-    imageSrc: '/images/projects/Turnos Anses.jpg',
+    imageSrc: '/images/projects/Turnos Anses 2026.jpg',
     demoUrl: 'https://servicioswww.anses.gob.ar/TurnosInternet/Burbujas/Prestaciones',
     repoUrl: null,
     stack: ['.NET Framework', 'ASP.NET MVC', 'Bootstrap', 'JavaScript', 'SOAP', 'SQL Server'],
