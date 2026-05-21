@@ -29,7 +29,7 @@ export function ProjectCard({ project, index }) {
               loading="lazy"
               decoding="async"
               /*className="w-full h-full object-cover group-hover:scale-105"*/
-              className="h-full w-full object-cover opacity-75 transition group-hover:opacity-100"
+              className="h-full w-full opacity-75 transition group-hover:opacity-100"
             />
           </div>
         </div>
