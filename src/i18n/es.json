@@ -98,9 +98,9 @@
         "title": "Turnos online",
         "description": "Aplicación web de turnos para realizar trámites y gestión administrativa en una dependencia de ANSES."
       },
-      "fitShop": {
+      "tiendaOnline": {
         "title": "Tienda online",
-        "description": "Aplicación web para compra de artículos de entrenamiento."
+        "description": "Aplicación web para compra de alimentos saludables."
       },
       "enterpriseWeb": {
         "title": "Sitio de empresa tecnológica",

@@ -98,9 +98,9 @@
         "title": "Appointments online",
         "description": "Web application for booking appointments and administrative management."
       },
-      "fitShop": {
+      "tiendaOnline": {
         "title": "eCommerce",
-        "description": "Web application for purchasing training-related products."
+        "description": "Web application for purchasing healthy food products."
       },
       "enterpriseWeb": {
         "title": "Technology company website",
@@ -109,6 +109,10 @@
       "reactSurveys": {
         "title": " Surveys online",
         "description": "Web application for conducting surveys for students in educational institutions."
+      },
+      "miPortfolio": {
+        "title": "My portfolio",
+        "description": "Web application for my personal portfolio."
       }
     }
   },

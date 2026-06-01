@@ -17,16 +17,16 @@ export const projects = [
     imageSrc: '/images/projects/portfolio2026.jpg',
     demoUrl: null,
     repoUrl: 'https://github.com/pmojeda/Portfolio2026',
-    stack: ['React', 'JavaScript', 'Tailwind CSS', 'Netlify'],
+    stack: ['React', 'JavaScript', 'Tailwind CSS'],
   },
   {
-    id: 'fitShop',
-    i18nTitleKey: 'projects.items.fitShop.title',
-    i18nDescKey: 'projects.items.fitShop.description',
+    id: 'tiendaOnline',
+    i18nTitleKey: 'projects.items.tiendaOnline.title',
+    i18nDescKey: 'projects.items.tiendaOnline.description',
     imageSrc: '/images/projects/tienda.jpg',
-    demoUrl: 'https://pmojeda.github.io/FitShopOjeda/',
-    repoUrl: 'https://github.com/pmojeda/FitShopOjeda',
-    stack: ['React', 'JavaScript'],
+    demoUrl: 'https://MiTiendaSaludable.netlify.app',
+    repoUrl: 'https://github.com/pmojeda/MiTiendaSaludable',
+    stack: ['React', 'JavaScript', 'Tailwind CSS'],
   },
   {
     id: 'enterpriseWeb',
@@ -35,7 +35,7 @@ export const projects = [
     imageSrc: '/images/projects/sitiotech.jpg',
     demoUrl: null,
     repoUrl: null,
-    stack: ['.NET 8', 'Web API', 'React', 'SQL Server'],
+    stack: ['.NET 10', 'Web API', 'React', 'PostgreSQL'],
   },
   {
     id: 'reactSurveys',
@@ -44,6 +44,6 @@ export const projects = [
     imageSrc: '/images/projects/encuestas.jpg',
     demoUrl: null,
     repoUrl: null,
-    stack: ['.NET 8', 'Web API', 'React', 'SQL Server'],
+    stack: ['.NET 10', 'Web API', 'React', 'PostgreSQL'],
   }
 ];
