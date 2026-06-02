@@ -23,7 +23,7 @@ export const projects = [
     id: 'tiendaOnline',
     i18nTitleKey: 'projects.items.tiendaOnline.title',
     i18nDescKey: 'projects.items.tiendaOnline.description',
-    imageSrc: '/images/projects/tienda.jpg',
+    imageSrc: '/images/projects/tiendaonline.jpg',
     demoUrl: 'https://MiTiendaSaludable.netlify.app',
     repoUrl: 'https://github.com/pmojeda/MiTiendaSaludable',
     stack: ['React', 'JavaScript', 'Tailwind CSS'],
