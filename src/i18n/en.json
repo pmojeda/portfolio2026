@@ -12,7 +12,7 @@
   },
   "hero": {
     "kicker": "Hi, I'm",
-    "role": "Full Stack Developer + AI | Database Engineer",
+    "role": "Full Stack Developer + AI",
     "lead": "I design and build scalable, robust web applications and services, with a focus on software quality, business needs, and user experience.",
     "ctaProjects": "View projects",
     "ctaCv": "Download CV",
@@ -25,8 +25,8 @@
       "title": "Digital Products Development",
       "badge": ".NET · SQL · React",
       "b1": "Web applications",
-      "b2": "Services development and integration (REST/SOAP)",
-      "b3": "SQL Database modeling & optimization",
+      "b2": "Services development and integration (REST APIs & SOAP)",
+      "b3": "SQL & noSQL Database modeling & optimization",
       "note": ""
     }
   },
@@ -34,7 +34,7 @@
     "title": "About",
     "subtitle": "",
     "summaryTitle": "Summary",
-    "summaryP1": "Software engineer with over 15 years of experience developing enterprise applications and backend services, primarily using Microsoft technologies. Specialized in .NET, SQL Server, REST APIs, and SOAP Web Services, with a strong track record in large-scale projects across industries such as energy, insurance, contact center services, and government.",
+    "summaryP1": "Software engineer with over 20 years of experience developing enterprise applications and backend services, primarily using Microsoft technologies. Specialized in .NET, SQL Server, REST APIs, and SOAP Web Services, with a strong track record in large-scale projects across industries such as energy, insurance, contact center services, and government.",
     "summaryP2": "I enjoy working close to the business and focusing on the user: transforming requirements into incremental deliverables, improving performance, and applying development best practices.",
     "experienceTitle": "Experience",
     "stackTitle": "Tech stack",
@@ -69,7 +69,7 @@
     "services": {
       "web": {
         "title": "Web development",
-        "body": "Full web applications: module design, APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, among others."
+        "body": "Full web applications: modules design & construction, REST APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, among others."
       },
       "services": {
         "title": "Web services",
@@ -105,10 +105,6 @@
       "enterpriseWeb": {
         "title": "Technology company website",
         "description": "Website for a technology company offering SaaS services to companies."
-      },
-      "reactSurveys": {
-        "title": " Surveys online",
-        "description": "Web application for conducting surveys for students in educational institutions."
       },
       "miPortfolio": {
         "title": "My portfolio",

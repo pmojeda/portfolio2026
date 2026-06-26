@@ -12,7 +12,7 @@
   },
   "hero": {
     "kicker": "Hola, soy",
-    "role": "Full Stack Developer + IA | Database Engineer",
+    "role": "Full Stack Developer + IA",
     "lead": "Diseño y construyo aplicaciones y servicios web robustos y escalables con foco en la calidad del software, necesidades del negocio y la experiencia del usuario.",
     "ctaProjects": "Ver proyectos",
     "ctaCv": "Descargar CV",
@@ -25,8 +25,8 @@
       "title": "Desarrollo de Productos Digitales",
       "badge": ".NET · SQL · React · Cloud",
       "b1": "Aplicaciones web",
-      "b2": "Desarrollo e integración de Servicios web (REST/SOAP)",
-      "b3": "Modelado y optimización de bases de datos SQL",
+      "b2": "Desarrollo e integración de Servicios web (SOAP y REST APIs)",
+      "b3": "Modelado y optimización de bases de datos SQL y noSQL",
       "note": ""
     }
   },
@@ -34,7 +34,7 @@
     "title": "Sobre mí",
     "subtitle": "",
     "summaryTitle": "Resumen",
-    "summaryP1": "Ingeniero de software con más de 15 años de experiencia en el desarrollo de aplicaciones empresariales y servicios backend utilizando principalmente tecnologías Microsoft.  Especializado en .NET,  SQL Server, APIs REST, Web Services SOAP en proyectos de gran escala en sectores como energía, seguros, servicios de contact center y gobierno.",
+    "summaryP1": "Ingeniero de software con más de 20 años de experiencia en el desarrollo de aplicaciones empresariales y servicios backend utilizando principalmente tecnologías Microsoft.  Especializado en .NET, SQL Server, REST APIs, Web Services SOAP en proyectos de gran escala en sectores como energía, seguros, servicios de contact center y gobierno.",
     "summaryP2": "Me gusta trabajar cerca del negocio y centrado en el usuario: transformar requerimientos en entregables incrementales, mejorar performance y aplicar buenas prácticas de desarrollo.",
     "experienceTitle": "Experiencia",
     "stackTitle": "Stack tecnológico",
@@ -69,7 +69,7 @@
     "services": {
       "web": {
         "title": "Desarrollo web",
-        "body": "Aplicaciones web completas: diseño de módulos, APIs, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, entre otras."
+        "body": "Aplicaciones web completas: diseño y construcción de módulos, REST APIs, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, entre otras."
       },
       "services": {
         "title": "Servicios web",
@@ -106,12 +106,8 @@
         "title": "Sitio de empresa tecnológica",
         "description": "Sitio web de una empresa de tecnología que ofrece servicios SaaS a PYMEs."
       },
-      "reactSurveys": {
-        "title": "Encuestas online",
-        "description": "Aplicación web de encuestas a realizar a alumnos de institutos educativos."
-      },
       "miPortfolio": {
-        "title": "Mi Portfolio",
+        "title": "Mi portfolio",
         "description": "Aplicación web de mi portfolio personal."
       }
     }

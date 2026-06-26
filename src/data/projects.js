@@ -36,14 +36,5 @@ export const projects = [
     demoUrl: null,
     repoUrl: null,
     stack: ['.NET 10', 'Web API', 'React', 'PostgreSQL'],
-  },
-  {
-    id: 'reactSurveys',
-    i18nTitleKey: 'projects.items.reactSurveys.title',
-    i18nDescKey: 'projects.items.reactSurveys.description',
-    imageSrc: '/images/projects/encuestas.jpg',
-    demoUrl: null,
-    repoUrl: null,
-    stack: ['.NET 10', 'Web API', 'React', 'PostgreSQL'],
   }
 ];
