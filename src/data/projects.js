@@ -17,7 +17,7 @@ export const projects = [
     imageSrc: '/images/projects/cotizador.jpg',
     demoUrl: null,
     repoUrl: 'https://github.com/pmojeda/Insurance',
-    stack: ['.NET 10', 'ASP.NET MVC', 'Bootstrap', 'REST API', 'MongoDB', 'PostgreSQL'],
+    stack: ['.NET 10', 'ASP.NET MVC', 'Bootstrap', 'REST API', 'PostgreSQL', 'MongoDB'],
   },
   {
     id: 'tiendaOnline',
@@ -26,14 +26,14 @@ export const projects = [
     imageSrc: '/images/projects/tiendaonline.jpg',
     demoUrl: 'https://MiTiendaSaludable.netlify.app',
     repoUrl: 'https://github.com/pmojeda/MiTiendaSaludable',
-    stack: ['React', 'JavaScript', 'Tailwind CSS'],
+    stack: ['React', 'JavaScript', 'Tailwind CSS', 'Firebase', 'Firestore'],
   },
   {
     id: 'miPortfolio',
     i18nTitleKey: 'projects.items.miPortfolio.title',
     i18nDescKey: 'projects.items.miPortfolio.description',
     imageSrc: '/images/projects/portfolio2026.jpg',
-    demoUrl: null,
+    demoUrl: 'https://martinojeda.netlify.app',
     repoUrl: 'https://github.com/pmojeda/Portfolio2026',
     stack: ['React', 'JavaScript', 'Tailwind CSS'],
   }
