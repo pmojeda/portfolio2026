@@ -2,11 +2,13 @@
 export const stack = [
   '.NET 8', 
   '.Net Framework',
-  'ASP.NET MVC & Web API',
+  'ASP.NET MVC',
   'SOAP & REST APIs',
   'SQL Server',
+  'MongoDB',
   'Azure Cloud',
   'Azure DevOps',
   'React',
-  'JavaScript'
+  'JavaScript',
+  'Bootstrap'
 ];

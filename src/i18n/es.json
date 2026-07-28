@@ -12,7 +12,7 @@
   },
   "hero": {
     "kicker": "Hola, soy",
-    "role": "Ingeniero de Software + IA",
+    "role": "Ingeniero de Software + IA aplicada",
     "lead": "Diseño y construyo aplicaciones y servicios web robustos y escalables con foco en la calidad del software, necesidades del negocio y la experiencia del usuario.",
     "ctaProjects": "Ver proyectos",
     "ctaCv": "Descargar CV",
@@ -51,13 +51,13 @@
         "period": "2018 — 2019",
         "role": "Software Developer",
         "company": "True North — Buenos Aires, Argentina",
-        "body": "Desarrollo de APIs REST para validación financiera de ciudadanos de USA.  \nMantenimiento de aplicaciones web y servicios en Azure."
+        "body": "Desarrollo de REST APIs para validación financiera de ciudadanos de USA.  \nMantenimiento de aplicaciones web y servicios en Azure."
       },
       "globant": {
         "period": "2014 — 2018",
         "role": "Software Developer",
         "company": "Globant — Buenos Aires, Argentina",
-        "body": "Desarrollo de API Rest para la aplicación móvil de YPF. \nMantenimiento de sitio web y microservicios para cotización de seguros para AON. \nMantenimiento de aplicaciones para gestión de contact centers para el cliente TeleTech."
+        "body": "Desarrollo de REST APIs para la aplicación móvil de YPF. \nMantenimiento de sitio web y microservicios para cotización de seguros para AON. \nMantenimiento de aplicaciones para gestión de contact centers para el cliente TeleTech."
       },
       "teletech": {
         "period": "2012 — 2014",
@@ -69,15 +69,15 @@
     "services": {
       "web": {
         "title": "Desarrollo web",
-        "body": "Aplicaciones web completas: diseño y construcción de módulos, REST APIs, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, entre otras."
+        "body": "Aplicaciones web completas: diseño y construcción de módulos, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, REST API, SOAP, SQL Server, React, JavaScript, entre otras."
       },
       "services": {
         "title": "Servicios web",
-        "body": "Desarrollo de servicios API REST/SOAP para el backend de aplicaciones mobile y sitios web."
+        "body": "Desarrollo de servicios REST API/SOAP para el backend de aplicaciones mobile y sitios web."
       },
       "data": {
         "title": "Datos & performance",
-        "body": "Modelado de Bases de Datos SQL, optimización de consultas y mejoras de performance."
+        "body": "Modelado de Bases de Datos, optimización de consultas y mejoras de performance."
       }
     }
   },
@@ -102,10 +102,10 @@
         "title": "Tienda online",
         "description": "Aplicación web para compra de alimentos saludables."
       },
-      "enterpriseWeb": {
-        "title": "Sitio de empresa tecnológica",
-        "description": "Sitio web de una empresa de tecnología que ofrece servicios SaaS a PYMEs."
-      },
+      "cotizadorOnline": {
+        "title": "Cotizador online",
+        "description": "Sitio web de una empresa de seguros para cotización de pólizas de inmuebles."
+      }, 
       "miPortfolio": {
         "title": "Mi portfolio",
         "description": "Aplicación web de mi portfolio personal."

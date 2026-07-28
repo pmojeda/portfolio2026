@@ -10,14 +10,14 @@ export const projects = [
     repoUrl: null,
     stack: ['.NET Framework', 'ASP.NET MVC', 'Bootstrap', 'JavaScript', 'SOAP', 'SQL Server'],
   },
-{
-    id: 'miPortfolio',
-    i18nTitleKey: 'projects.items.miPortfolio.title',
-    i18nDescKey: 'projects.items.miPortfolio.description',
-    imageSrc: '/images/projects/portfolio2026.jpg',
+  {
+    id: 'cotizadorOnline',
+    i18nTitleKey: 'projects.items.cotizadorOnline.title',
+    i18nDescKey: 'projects.items.cotizadorOnline.description',
+    imageSrc: '/images/projects/cotizador.jpg',
     demoUrl: null,
-    repoUrl: 'https://github.com/pmojeda/Portfolio2026',
-    stack: ['React', 'JavaScript', 'Tailwind CSS'],
+    repoUrl: 'https://github.com/pmojeda/Insurance',
+    stack: ['.NET 10', 'ASP.NET MVC', 'Bootstrap', 'REST API', 'MongoDB', 'PostgreSQL'],
   },
   {
     id: 'tiendaOnline',
@@ -29,12 +29,21 @@ export const projects = [
     stack: ['React', 'JavaScript', 'Tailwind CSS'],
   },
   {
+    id: 'miPortfolio',
+    i18nTitleKey: 'projects.items.miPortfolio.title',
+    i18nDescKey: 'projects.items.miPortfolio.description',
+    imageSrc: '/images/projects/portfolio2026.jpg',
+    demoUrl: null,
+    repoUrl: 'https://github.com/pmojeda/Portfolio2026',
+    stack: ['React', 'JavaScript', 'Tailwind CSS'],
+  }
+/*   {
     id: 'enterpriseWeb',
     i18nTitleKey: 'projects.items.enterpriseWeb.title',
     i18nDescKey: 'projects.items.enterpriseWeb.description',
     imageSrc: '/images/projects/sitiotech.jpg',
     demoUrl: null,
     repoUrl: null,
-    stack: ['.NET 10', 'Web API', 'React', 'PostgreSQL'],
-  }
+    stack: ['.NET 10', 'REST API', 'React', 'PostgreSQL'],
+  } */
 ];

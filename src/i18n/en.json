@@ -12,7 +12,7 @@
   },
   "hero": {
     "kicker": "Hi, I'm",
-    "role": "Software Engineer + AI",
+    "role": "Software Engineer + applied AI",
     "lead": "I design and build scalable, robust web applications and services, with a focus on software quality, business needs, and user experience.",
     "ctaProjects": "View projects",
     "ctaCv": "Download CV",
@@ -69,7 +69,7 @@
     "services": {
       "web": {
         "title": "Web development",
-        "body": "Full web applications: modules design & construction, REST APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, Web API, SQL Server, React, JavaScript, among others."
+        "body": "Full web applications: modules design & construction, REST APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, SQL Server, React, JavaScript, among others."
       },
       "services": {
         "title": "Web services",
@@ -102,10 +102,10 @@
         "title": "eCommerce",
         "description": "Web application for purchasing healthy food products."
       },
-      "enterpriseWeb": {
-        "title": "Technology company website",
-        "description": "Website for a technology company offering SaaS services to companies."
-      },
+      "cotizadorOnline": {
+        "title": "Online quote generator",
+        "description": "Website for an insurance company to quote property policies."
+      }, 
       "miPortfolio": {
         "title": "My portfolio",
         "description": "Web application for my personal portfolio."
