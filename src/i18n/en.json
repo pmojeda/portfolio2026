@@ -34,7 +34,7 @@
     "title": "About",
     "subtitle": "",
     "summaryTitle": "Summary",
-    "summaryP1": "Software engineer with over 20 years of experience developing enterprise applications and backend services, primarily using Microsoft technologies. Specialized in .NET, SQL Server, REST APIs, and SOAP Web Services, with a strong track record in large-scale projects across industries such as energy, insurance, contact center services, and government.",
+    "summaryP1": "Software engineer with over 20 years of experience developing enterprise applications and backend services, primarily using Microsoft technologies. Specialized in .NET, SQL Server, REST API and SOAP web services, with a strong track record in large-scale projects across industries such as energy, insurance, contact center services, and government.",
     "summaryP2": "I enjoy working close to the business and focusing on the user: transforming requirements into incremental deliverables, improving performance, and applying development best practices.",
     "experienceTitle": "Experience",
     "stackTitle": "Tech stack",
@@ -69,15 +69,15 @@
     "services": {
       "web": {
         "title": "Web development",
-        "body": "Full web applications: modules design & construction, REST APIs, UI, and deployment. Experience with technologies such as .NET, ASP.NET MVC, SQL Server, React, JavaScript, among others."
+        "body": "End-to-end web application development, including backend, frontend, database design, service integration, and deployment."
       },
       "services": {
         "title": "Web services",
-        "body": "Development of REST/SOAP API services for the backend of mobile applications and websites."
+        "body": "Development of REST API and SOAP services for the backend of mobile applications and websites."
       },
       "data": {
         "title": "Data & performance",
-        "body": "SQL database modeling, query optimization, and performance improvements."
+        "body": "Database modeling, query optimization, and performance improvements."
       }
     }
   },

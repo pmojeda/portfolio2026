@@ -25,7 +25,7 @@
       "title": "Desarrollo de Productos Digitales",
       "badge": ".NET · SQL · React · Cloud",
       "b1": "Aplicaciones web",
-      "b2": "Desarrollo e integración de Servicios web (SOAP y REST APIs)",
+      "b2": "Desarrollo e integración de servicios web (REST API y SOAP)",
       "b3": "Modelado y optimización de bases de datos SQL y noSQL",
       "note": ""
     }
@@ -34,7 +34,7 @@
     "title": "Sobre mí",
     "subtitle": "",
     "summaryTitle": "Resumen",
-    "summaryP1": "Ingeniero de software con más de 20 años de experiencia en el desarrollo de aplicaciones empresariales y servicios backend utilizando principalmente tecnologías Microsoft.  Especializado en .NET, SQL Server, REST APIs, Web Services SOAP en proyectos de gran escala en sectores como energía, seguros, servicios de contact center y gobierno.",
+    "summaryP1": "Ingeniero de software con más de 20 años de experiencia en el desarrollo de aplicaciones empresariales y servicios backend utilizando principalmente tecnologías Microsoft.  Especializado en .NET, SQL Server, REST APIs, servicios web SOAP en proyectos de gran escala en sectores como energía, seguros, servicios de contact center y gobierno.",
     "summaryP2": "Me gusta trabajar cerca del negocio y centrado en el usuario: transformar requerimientos en entregables incrementales, mejorar performance y aplicar buenas prácticas de desarrollo.",
     "experienceTitle": "Experiencia",
     "stackTitle": "Stack tecnológico",
@@ -69,11 +69,11 @@
     "services": {
       "web": {
         "title": "Desarrollo web",
-        "body": "Aplicaciones web completas: diseño y construcción de módulos, UI y despliegue. Experiencia con tecnologías como .NET, ASP.NET MVC, REST API, SOAP, SQL Server, React, JavaScript, entre otras."
+        "body": "Construcción de aplicaciones web de principio a fin: backend, frontend, base de datos, integración de servicios y despliegue."
       },
       "services": {
         "title": "Servicios web",
-        "body": "Desarrollo de servicios REST API/SOAP para el backend de aplicaciones mobile y sitios web."
+        "body": "Desarrollo de servicios REST API y SOAP para el backend de aplicaciones móviles y sitios web."
       },
       "data": {
         "title": "Datos & performance",
@@ -116,7 +116,7 @@
     "title": "Contacto",
     "subtitle": "Si querés coordinar una charla o realizarme una consulta, escribime.",
     "name": "Nombre",
-    "email": "Email",
+    "email": "Correo electronico",
     "message": "Mensaje",
     "submit": "Enviar",
     "sending": "Enviando…",
